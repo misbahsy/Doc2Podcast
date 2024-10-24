@@ -2,6 +2,8 @@
 
 Doc2Podcast is an AI-powered tool that transforms PDF documents into engaging podcast-style audio content. This project leverages Next.js, React, and Langflow to generate audio content from text documents.
 
+![doc2podcast](https://github.com/user-attachments/assets/31fc60e6-12e3-4e14-933a-1de0721b1d5b)
+
 ## Features
 
 * PDF document upload

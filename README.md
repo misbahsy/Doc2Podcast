@@ -1,6 +1,6 @@
-# Document to Podcast - AI-Powered Audio Content Creation
+# Doc2Podcast - Powered by Langflow
 
-Document to Podcast is an innovative AI-powered tool that transforms PDF documents into engaging podcast-style audio content. This project leverages Next.js, React, and Langflow to provide a seamless experience for generating audio content from text documents.
+Doc2Podcast is an AI-powered tool that transforms PDF documents into engaging podcast-style audio content. This project leverages Next.js, React, and Langflow to generate audio content from text documents.
 
 ## Features
 

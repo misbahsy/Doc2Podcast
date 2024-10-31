@@ -40,7 +40,7 @@ Doc2Podcast is an AI-powered tool that transforms PDF documents into engaging po
    * Install and run the Langflow backend server
    * Navigate to the Langflow UI (usually at http://localhost:7860)
    * Import the flow provided in the repo at `langflow_flow/Doc to Podcast (Langflow).json`
-   * If you need to install necessary dependecies for audio generation in Langflow, run the flow at 'langflow_flow/Doc to Podcast  (Langflow) - Necessary Installs.json`
+   * If you need to install necessary dependencies for audio generation in Langflow, run the flow at 'langflow_flow/Doc to Podcast  (Langflow) - Necessary Installs.json`
    * Note the Flow ID after importing (you'll need this for the .env.local file)
 
 4. Create a `.env.local` file in the root directory and add the following:
